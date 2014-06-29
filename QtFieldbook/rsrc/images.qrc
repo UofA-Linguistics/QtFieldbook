@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>BeginBtn2.png</file>
+        <file>EndBtn.png</file>
+        <file>NextBtn.png</file>
+        <file>PrevBtn.png</file>
+        <file>RtnBtn.png</file>
+        <file>HelpBtn.png</file>
+        <file>PushBtn.png</file>
+        <file>SpeakerBtn.png</file>
+        <file>infoBtn.png</file>
+        <file>ControlPanel.png</file>
+        <file>FwdBtn.png</file>
+    </qresource>
+</RCC>

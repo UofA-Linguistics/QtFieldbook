@@ -1,0 +1,1 @@
+pyrcc4 -py3 rsrc/images.qrc -o images.py
